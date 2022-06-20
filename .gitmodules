@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "chronosphere"]
+	path = chronosphere
+	url = https://github.com/chronosphere-portal/r_package
+	shallow = true
+	registered = true
